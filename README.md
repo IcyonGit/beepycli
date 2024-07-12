@@ -1,5 +1,5 @@
 # Beepy CLI
-Your one-stop-shop for all things Beepy, as long as all things means:
+Your one-stop-shop for all things Beepy, as long as all things means
 going from zero to messaging with Beeper on your device, or copying logs
 from your Beepy to your computer.
 
